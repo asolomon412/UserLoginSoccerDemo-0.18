@@ -29,7 +29,7 @@
 			
 				<div class="form-group mx-sm-3 mb-2 ">
 					<div class="form-group">
-						<label class="mx-sm-3 mb-2" for="help">User Name: </label>
+						<label class="mx-sm-3 mb-2" for="help">Username: </label>
 						<input id="help" class="form-control mx-sm-3 mb-2"  type="text" name="username">
 					</div>
 					<div class="form-group">
@@ -63,7 +63,7 @@
 						<input id="role" class="form-control mx-sm-3 mb-2"  type="text" name="lastname">
 					</div>
 					<div class="form-group">
-						<label class="mx-sm-3 mb-2" for="help">User Name: </label>
+						<label class="mx-sm-3 mb-2" for="help">Username: </label>
 						<input id="help" class="form-control mx-sm-3 mb-2"  type="text" name="username">
 					</div>
 					<div class="form-group">
