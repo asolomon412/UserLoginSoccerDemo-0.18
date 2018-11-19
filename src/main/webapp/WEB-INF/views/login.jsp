@@ -55,16 +55,16 @@
 				<div class="form-group mx-sm-3 mb-2 ">
 					<div class="form-group">
 					
-						<label class="mx-sm-3 mb-2" for="name"> First Name: </label>
-						<input id="name" class="form-control mx-sm-3 mb-2" type="text" name="firstname" required> 
+						<label class="mx-sm-3 mb-2" for="fname"> First Name: </label>
+						<input id="fname" class="form-control mx-sm-3 mb-2" type="text" name="firstname" required> 
 					</div>
 					<div class="form-group">
-						<label class="mx-sm-3 mb-2" for="role">Last Name: </label>
-						<input id="role" class="form-control mx-sm-3 mb-2"  type="text" name="lastname" required>
+						<label class="mx-sm-3 mb-2" for="lname">Last Name: </label>
+						<input id="lname" class="form-control mx-sm-3 mb-2"  type="text" name="lastname" required>
 					</div>
 					<div class="form-group">
-						<label class="mx-sm-3 mb-2" for="help">Username: </label>
-						<input id="help" class="form-control mx-sm-3 mb-2"  type="text" name="username" required>
+						<label class="mx-sm-3 mb-2" for="uname">Username: </label>
+						<input id="uname" class="form-control mx-sm-3 mb-2"  type="text" name="username" required>
 					</div>
 					<div class="form-group">
 						<label class="mx-sm-3 mb-2" for="pass">Password: </label>
